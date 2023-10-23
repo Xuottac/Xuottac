@@ -36,7 +36,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/Xuottac/Xuottac/assets/74898398/e9483555-a45c-4881-87ff-d648e2c988d1" height="40" width="52" alt="php logo"  />
   <img src="https://github.com/Xuottac/Xuottac/assets/74898398/00405465-c770-49b8-9c1f-0e714f53f35a" height="40" width="52" alt="python logo"  />
   <img src="https://github.com/Xuottac/Xuottac/assets/74898398/32b47f46-010a-4683-92fc-27152d52bd0f" height="40" width="52" alt="bootstrap logo"  />
+</p>
 
-  <h1 align="center">A brainbox just waiting to be filled with knowledge 🧠</h1>
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alric-cattoux-8698b31b2/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:alriccattouxpro@gmail.com)
+<h1 align="center">A brainbox just waiting to be filled with knowledge 🧠</h1>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alric-cattoux-8698b31b2/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:alriccattouxpro@gmail.com)
 ![Visits Badge](https://badges.pufler.dev/visits/xuottac/xuottac?style=for-the-badge)
