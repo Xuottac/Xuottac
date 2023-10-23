@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alric-cattoux-8698b31b2/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:alriccattouxpro@gmail.com)
-![Visits Badge](https://badges.pufler.dev/visits/abhishek-choudharys/abhishek-choudharys?style=for-the-badge)
+![Visits Badge](https://badges.pufler.dev/visits/xuottac/xuottac?style=for-the-badge)
 
 - 🌱 I’m currently learning React / NextJS
 - 👯 I’m looking to collaborate on a project that allows me to develop both technically and personally
