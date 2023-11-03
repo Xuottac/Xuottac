@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 <h1 align="center">A brainbox just waiting to be filled with knowledge 🧠</h1>
 
-[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alric-cattoux-8698b31b2/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:alriccattouxpro@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alric-cattoux-8698b31b2/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:alriccattouxpro@gmail.com)
 ![Visits Badge](https://badges.pufler.dev/visits/xuottac/xuottac?style=for-the-badge)
